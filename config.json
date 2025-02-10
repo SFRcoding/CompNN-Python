@@ -1,0 +1,14 @@
+
+{
+  "input_folders": [
+    "C:/Users/sebal/Desktop/przekroje_test/nieuszkodzone/nieuszkodzony_1",
+    "C:/Users/sebal/Desktop/przekroje_test/nieuszkodzone/nieuszkodzony_2",
+    "C:/Users/sebal/Desktop/przekroje_test/nieuszkodzone/nieuszkodzony_3",
+    "C:/Users/sebal/Desktop/przekroje_test/nieuszkodzone/nieuszkodzony_4",
+	"C:/Users/sebal/Desktop/przekroje_test/nieuszkodzone/nieuszkodzony_5"
+  ],
+  "scale_factors": [1.0, 1.0, 1.0, 1.0, 1.0],
+  "bad_folder": "C:/Users/sebal/Desktop/przekroje_test/uszkodzone/uszkodzony_1",
+  "bad_scale": 1.0,
+  "output_base_folder": "C:/Users/sebal/Desktop/przekroje_test/revised/outpG"
+}
